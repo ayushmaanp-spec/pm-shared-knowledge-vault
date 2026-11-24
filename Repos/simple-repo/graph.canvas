@@ -1,0 +1,718 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "n_repo_utils_ingreen",
+      "type": "file",
+      "file": "ingreen().md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_next_repo",
+      "type": "file",
+      "file": "next_repo().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_os",
+      "type": "file",
+      "file": "os.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_checkout",
+      "type": "file",
+      "file": "repo_checkout().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_forall",
+      "type": "file",
+      "file": "repo_forall().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_push",
+      "type": "file",
+      "file": "repo_push().md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_remote",
+      "type": "file",
+      "file": "repo_remote().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_sync",
+      "type": "file",
+      "file": "repo_sync().md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 740,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_re",
+      "type": "file",
+      "file": "re.md",
+      "x": 760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo",
+      "type": "file",
+      "file": "repo.md",
+      "x": 960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_status",
+      "type": "file",
+      "file": "repo_status().md",
+      "x": 1160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_shutil",
+      "type": "file",
+      "file": "shutil.md",
+      "x": 760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_stat",
+      "type": "file",
+      "file": "stat.md",
+      "x": 960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_subprocess",
+      "type": "file",
+      "file": "subprocess.md",
+      "x": 1160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sys",
+      "type": "file",
+      "file": "sys.md",
+      "x": 760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_time",
+      "type": "file",
+      "file": "time.md",
+      "x": 960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 0,
+      "y": 500,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_repo_utils_branchinfo_init",
+      "type": "file",
+      "file": "dot-__init__().md",
+      "x": 20,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_branchinfo",
+      "type": "file",
+      "file": "BranchInfo.md",
+      "x": 220,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_object",
+      "type": "file",
+      "file": "object.md",
+      "x": 420,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_pretty_branchinfo_output",
+      "type": "file",
+      "file": "pretty_branchinfo_output().md",
+      "x": 20,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_branch",
+      "type": "file",
+      "file": "repo_branch().md",
+      "x": 220,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils",
+      "type": "file",
+      "file": "repo_utils.py.md",
+      "x": 420,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_update_branch_info",
+      "type": "file",
+      "file": "update_branch_info().md",
+      "x": 20,
+      "y": 740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 740,
+      "y": 500,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_repo_utils_inred",
+      "type": "file",
+      "file": "inred().md",
+      "x": 760,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_repo_init",
+      "type": "file",
+      "file": "repo_init().md",
+      "x": 960,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repo_utils_system_excu",
+      "type": "file",
+      "file": "system_excu().md",
+      "x": 760,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_repo_utils_update_branch_info_repo_utils_branchinfo",
+      "fromNode": "n_repo_utils_update_branch_info",
+      "toNode": "n_repo_utils_branchinfo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_branchinfo",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_branchinfo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_branchinfo_object",
+      "fromNode": "n_repo_utils_branchinfo",
+      "toNode": "n_object",
+      "label": "inherits [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_branchinfo_repo_utils_branchinfo_init",
+      "fromNode": "n_repo_utils_branchinfo",
+      "toNode": "n_repo_utils_branchinfo_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_pretty_branchinfo_output_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_pretty_branchinfo_output",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_checkout_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_checkout",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_forall_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_forall",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_push_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_push",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_remote_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_remote",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_status_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_status",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_sync_repo_utils_ingreen",
+      "fromNode": "n_repo_utils_repo_sync",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_ingreen",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_ingreen",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_branch_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_branch",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_checkout_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_checkout",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_forall_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_forall",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_push_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_push",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_remote_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_remote",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_status_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_status",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_sync_repo_utils_next_repo",
+      "fromNode": "n_repo_utils_repo_sync",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_next_repo",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_next_repo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_checkout_os",
+      "fromNode": "n_repo_utils_repo_checkout",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_checkout_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_checkout",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_checkout",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_checkout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_checkout",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_checkout",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_forall_os",
+      "fromNode": "n_repo_utils_repo_forall",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_forall_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_forall",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_forall",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_forall",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_forall",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_forall",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_push_os",
+      "fromNode": "n_repo_utils_repo_push",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_push_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_push",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_push",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_push",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_push",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_push",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_remote_os",
+      "fromNode": "n_repo_utils_repo_remote",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_remote_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_remote",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_remote",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_remote",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_remote",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_remote",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_sync_os",
+      "fromNode": "n_repo_utils_repo_sync",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_sync_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_sync",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_sync",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_sync",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_sync",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_sync",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_status_os",
+      "fromNode": "n_repo_utils_repo_status",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_status_subprocess",
+      "fromNode": "n_repo_utils_repo_status",
+      "toNode": "n_subprocess",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_status_repo_utils_inred",
+      "fromNode": "n_repo_utils_repo_status",
+      "toNode": "n_repo_utils_inred",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_status",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_status",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_status",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_status",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_branch_repo_utils_pretty_branchinfo_output",
+      "fromNode": "n_repo_utils_repo_branch",
+      "toNode": "n_repo_utils_pretty_branchinfo_output",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_pretty_branchinfo_output",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_pretty_branchinfo_output",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_branch_os",
+      "fromNode": "n_repo_utils_repo_branch",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_branch_subprocess",
+      "fromNode": "n_repo_utils_repo_branch",
+      "toNode": "n_subprocess",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_branch_repo_utils_update_branch_info",
+      "fromNode": "n_repo_utils_repo_branch",
+      "toNode": "n_repo_utils_update_branch_info",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_branch",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_branch",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_branch",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_branch",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_update_branch_info",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_update_branch_info",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_init_repo_utils_inred",
+      "fromNode": "n_repo_utils_repo_init",
+      "toNode": "n_repo_utils_inred",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_system_excu_repo_utils_inred",
+      "fromNode": "n_repo_utils_system_excu",
+      "toNode": "n_repo_utils_inred",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_inred",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_inred",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_init_os",
+      "fromNode": "n_repo_utils_repo_init",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_init_repo_utils_system_excu",
+      "fromNode": "n_repo_utils_repo_init",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_repo_init",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_repo_init",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils_repo_init",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils_repo_init",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_repo_utils_system_excu_os",
+      "fromNode": "n_repo_utils_system_excu",
+      "toNode": "n_os",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_repo_utils_system_excu",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_repo_utils_system_excu",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_os",
+      "fromNode": "n_repo",
+      "toNode": "n_os",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_time",
+      "fromNode": "n_repo",
+      "toNode": "n_time",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_shutil",
+      "fromNode": "n_repo",
+      "toNode": "n_shutil",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_stat",
+      "fromNode": "n_repo",
+      "toNode": "n_stat",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_sys",
+      "fromNode": "n_repo",
+      "toNode": "n_sys",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_re",
+      "fromNode": "n_repo",
+      "toNode": "n_re",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_subprocess",
+      "fromNode": "n_repo",
+      "toNode": "n_subprocess",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_repo_utils",
+      "fromNode": "n_repo",
+      "toNode": "n_repo_utils",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_sys",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_sys",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_os",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_os",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_repo_utils_subprocess",
+      "fromNode": "n_repo_utils",
+      "toNode": "n_subprocess",
+      "label": "imports [EXTRACTED]"
+    }
+  ]
+}
